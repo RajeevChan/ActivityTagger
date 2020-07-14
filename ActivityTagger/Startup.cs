@@ -2,6 +2,7 @@
 using ActivityTagger.Startup;
 using ActivityTaggers;
 using Microsoft.ApplicationInsights.Extensibility;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Hosting;
 using Microsoft.Extensions.Configuration;
